@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t debian:jessie .
+docker build -t ubuntu:14.04 .
