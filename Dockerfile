@@ -1,6 +1,6 @@
 # Dockerfile
 
-FROM debian:jessie
+FROM ubuntu:14.04
 
 MAINTAINER ovwane 20150511
 
